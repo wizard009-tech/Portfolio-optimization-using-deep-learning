@@ -1,3 +1,4 @@
+import scipy.optimize as sco
 from sklearn.decomposition import PCA
 import pandas as pd
 import numpy as np
